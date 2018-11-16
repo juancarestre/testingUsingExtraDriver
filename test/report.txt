@@ -1,0 +1,144 @@
+                                   Sign On                                      
+                                               System  . . . . . :   DTP400     
+                                               Subsystem . . . . :   QINTER    
+                                               Display . . . . . :   QPADEV0007
+                                                                                
+                User  . . . . . . . . . . . . . .   CCCC                        
+                Password  . . . . . . . . . . . .                               
+                Program/procedure . . . . . . . .                               
+                Menu  . . . . . . . . . . . . . .                               
+                Current library . . . . . . . . .                               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   Attachmate Corporation                     AS/400 Assistance and Support     
+    AS/400  300  V3R1M0                        Please call x9999 or 999-9999    
+                                               Evening/weekends: 111-1111       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                        (C) COPYRIGHT IBM CORP. 1980, 1994.    
+                                   Sign On                                      
+                                               System  . . . . . :   DTP400     
+                                               Subsystem . . . . :   QINTER    
+                                               Display . . . . . :   QPADEV0007
+                                                                                
+                User  . . . . . . . . . . . . . .   CCCC                        
+                Password  . . . . . . . . . . . .                               
+                Program/procedure . . . . . . . .                               
+                Menu  . . . . . . . . . . . . . .                               
+                Current library . . . . . . . . .                               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   Attachmate Corporation                     AS/400 Assistance and Support     
+    AS/400  300  V3R1M0                        Please call x9999 or 999-9999    
+                                               Evening/weekends: 111-1111       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                        (C) COPYRIGHT IBM CORP. 1980, 1994.    
+                                   Sign On                                      
+                                               System  . . . . . :   DTP400     
+                                               Subsystem . . . . :   QINTER    
+                                               Display . . . . . :   QPADEV0007
+                                                                                
+                User  . . . . . . . . . . . . . .   CCCC                        
+                Password  . . . . . . . . . . . .                               
+                Program/procedure . . . . . . . .   ProgramX                    
+                Menu  . . . . . . . . . . . . . .                               
+                Current library . . . . . . . . .                               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   Attachmate Corporation                     AS/400 Assistance and Support     
+    AS/400  300  V3R1M0                        Please call x9999 or 999-9999    
+                                               Evening/weekends: 111-1111       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                        (C) COPYRIGHT IBM CORP. 1980, 1994.    
+                                   Sign On                                      
+                                               System  . . . . . :   DTP400     
+                                               Subsystem . . . . :   QINTER    
+                                               Display . . . . . :   QPADEV0007
+                                                                                
+                User  . . . . . . . . . . . . . .   CCCC                        
+                Password  . . . . . . . . . . . .                               
+                Program/procedure . . . . . . . .   ProgramX                    
+                Menu  . . . . . . . . . . . . . .   inventadox                  
+                Current library . . . . . . . . .                               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   Attachmate Corporation                     AS/400 Assistance and Support     
+    AS/400  300  V3R1M0                        Please call x9999 or 999-9999    
+                                               Evening/weekends: 111-1111       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                        (C) COPYRIGHT IBM CORP. 1980, 1994.    
+                                   Sign On                                      
+                                               System  . . . . . :   DTP400     
+                                               Subsystem . . . . :   QINTER    
+                                               Display . . . . . :   QPADEV0007
+                                                                                
+                User  . . . . . . . . . . . . . .   CCCC                        
+                Password  . . . . . . . . . . . .                               
+                Program/procedure . . . . . . . .   ProgramX                    
+                Menu  . . . . . . . . . . . . . .   inventadox                  
+                Current library . . . . . . . . .   xxactualxx                  
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   Attachmate Corporation                     AS/400 Assistance and Support     
+    AS/400  300  V3R1M0                        Please call x9999 or 999-9999    
+                                               Evening/weekends: 111-1111       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                        (C) COPYRIGHT IBM CORP. 1980, 1994.    
+ MAIN                           AS/400 Main Menu                                
+                                                             System:   ATM400  
+Select one of the following:                                                   
+                                                                                
+      1. User tasks                                                             
+      2. Office tasks                                                           
+      3. General system tasks                                                   
+      4. Files, libraries, and folders                                          
+      5. Programming                                                            
+      6. Communications                                                         
+      7. Define or change the system                                            
+      8. Problem handling                                                       
+      9. Display a menu                                                         
+     10. Information Assistant options                                          
+     11. Client Access tasks                                                    
+                                                                                
+     90. Sign off                                                               
+                                                                                
+Selection or command                                                           
+===> 5                                                                         
+                                                                               
+F3=Exit   F4=Prompt   F9=Retrieve   F12=Cancel   F13=Information Assistant     
+F23=Set initial menu                                                           
+(C) COPYRIGHT IBM CORP. 1980, 1994.                                           
